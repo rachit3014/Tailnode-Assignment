@@ -41,7 +41,7 @@ You should see tailnode_env written in brackets in the beginning of your termina
 ### Step3. Install requirements.txt
 Now, inside your main folder install all the requirements using
 ```
-pip -r install requirements.txt
+pip install -r requirements.txt 
 ```
 
 ### Step4. Adding your URI
